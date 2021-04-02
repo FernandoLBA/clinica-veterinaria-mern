@@ -1,0 +1,19 @@
+AnotacionesExpressMongoAPI
+ProyectoFinalizado
+AnotacionesFrontEnd
+AnotacionesElectron
+citas-HTML.zip
+FullStackClinicaVeterinaria/API/node_modules
+FullStackClinicaVeterinaria/frontend/node_modules
+FullStackClinicaVeterinaria/Desktop/node_modules
+### Executable ###
+*.app
+*.bat
+*.cgi
+*.com
+*.exe
+*.gadget
+*.jar
+*.pif
+*.vb
+*.wsf
